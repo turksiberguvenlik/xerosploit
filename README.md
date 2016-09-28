@@ -35,7 +35,7 @@ Dependencies will be automatically installed.
     sudo xerosploit
 
 
-Tested on
+Test Edilen Sistemler
 =
 
 <table>
