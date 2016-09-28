@@ -26,7 +26,7 @@ Dependencies
 
 
 
-Instalation
+Kurulum
 =
 Dependencies will be automatically installed.
 
