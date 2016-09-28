@@ -74,25 +74,13 @@ features
 - Drifnet
 - Webpage defacement and more ...
 
-Demonstration
+Kurulum Videosu 
 =
-https://www.youtube.com/watch?v=35QUrtZEV9U
-
-I have some questions!
-=
-
-Please visit https://github.com/LionSec/xerosploit/issues
-
-Donations
-=
-- Paypal : https://www.paypal.me/lionsec
-- Bitcoin : 12dM5kZjYMizNuXaqu7QZBLNDkXjfKYpRD
+Daha Sonra Eklenecektir.
 
 
 Contact
 =
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : ledonman@gmail.com
+- Website : http://turksiberguvenlik.net
+- Youtube : https://youtube.com/user/pcdunyasi
+- Facebook : https://facebook.com/bitekkan
