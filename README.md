@@ -11,7 +11,7 @@ Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https
 
 ![](http://i.imgur.com/bbr48Ep.png)
 
-Dependencies
+Bağlantılı Programlar 
 =
 
 - nmap 
