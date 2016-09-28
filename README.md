@@ -59,7 +59,7 @@ Tested on
 
 
 
-features 
+Özellikler 
 =
 - Port scanning
 - Network mapping
