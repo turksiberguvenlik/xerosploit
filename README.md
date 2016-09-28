@@ -79,7 +79,7 @@ Kurulum Videosu
 Daha Sonra Eklenecektir.
 
 
-Contact
+İrtibat Noktaları
 =
 - Website : http://turksiberguvenlik.net
 - Youtube : https://youtube.com/user/pcdunyasi
